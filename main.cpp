@@ -1,4 +1,5 @@
-#include "pch.h"
+//#include "pch.h"
+#include "Trie.hpp"
 #include <boost/shared_ptr.hpp>
 #include <boost/program_options.hpp>
 
