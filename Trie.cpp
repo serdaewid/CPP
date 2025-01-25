@@ -1,4 +1,5 @@
-#include "pch.h"
+//#include "pch.h"
+#include "Trie.hpp"
 
 TrieNode::TrieNode() : isWordEnd(false)
 {
